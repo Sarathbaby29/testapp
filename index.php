@@ -1,1 +1,3 @@
-<h3>hello haiiiii</h3>
+<?php
+echo"Welcome to laravel";
+?>
